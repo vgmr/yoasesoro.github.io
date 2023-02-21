@@ -1,0 +1,4 @@
+ .md-sidebar--secondary, .md-sidebar--primary, .md-header__button {
+    display: none!important;
+  }
+   
